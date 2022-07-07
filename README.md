@@ -15,6 +15,10 @@ Phicomm K3 OpenWrt firmware Compile by Github Actions
 
 - https://github.com/yangxu52/Phicomm-K2P-K3-OpenWrt-Firmware
 
+- https://github.com/kiddin9/openwrt-bypass
+
+- https://github.com/kiddin9/luci-app-dnsfilter
+
 - https://github.com/yaof2/luci-app-ikoolproxy
 
 - ······
@@ -62,6 +66,7 @@ Phicomm K3 OpenWrt firmware Compile by Github Actions
 - [Lienol](https://github.com/Lienol)
 - [jerrykuku](https://github.com/jerrykuku)
 - [lwz322](https://github.com/lwz322)
+- [kiddin9](https://github.com/kiddin9)
 - [P3TERX](https://github.com/P3TERX)
 - [yangxu52](https://github.com/yangxu52)
 - [yaof2](https://github.com/yaof2)
