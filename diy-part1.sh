@@ -41,6 +41,11 @@ rm -rf package/lean/luci-theme-argon
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon package/lean/luci-theme-argon
 echo '=========Add argon-mod OK!========='
 
+echo '添加tinktip的neobird主题'
+rm -rf package/lean/luci-theme-neobird
+git clone https://github.com/thinktip/luci-theme-neobird.git
+echo '=========Add neobird-theme OK!========='
+
 echo '添加lwz322的K3屏幕插件'
 rm -rf package/lean/luci-app-k3screenctrl
 git clone https://github.com/yangxu52/luci-app-k3screenctrl.git package/lean/luci-app-k3screenctrl
